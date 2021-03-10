@@ -32,3 +32,10 @@ Confere a cobertura de testes de todos os métodos existentes na API REST (GET, 
 O swagger abaixo tem um total de 19 operações:
 
 <img src="https://miro.medium.com/max/875/0*FLEc8zdY1hZ1IWDY" width="680" height="597.17">
+
+Então, deve-se verificar quais métodos da API foram cobertos pela automação de testes. Vamos supor que dezesseis métodos tiveram testes automatizados implementados.
+
+Para calcular a cobertura: quantidade de operações da API estão automatizados/ quantidade total de operações da API REST.
+
+<img alt="A imagem mostra o exemplo do calco de cobertura: 6 divido por 9 é igual a 0,84, que corresponse a 84 porcento." class="sy tm t u v ib aj c" width="205" height="93" src="https://miro.medium.com/max/256/1*YhPNpXV-JimfE8S6Hu_ZEQ.png" srcset="" sizes="205px">
+
