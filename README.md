@@ -26,7 +26,7 @@ Para calcular a cobertura: quantidade de testes automatizados / quantidade de en
 
 Então 46% dos testes de path estão cobertos pela automação.
 
-**** Operator Coverage (input) ****
+** Operator Coverage (input) **
 
 Confere a cobertura de testes de todos os métodos existentes na API REST (GET, POST, PUT, DELETE…).
 O swagger abaixo tem um total de 19 operações:
