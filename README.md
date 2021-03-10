@@ -30,3 +30,5 @@ Então 46% dos testes de path estão cobertos pela automação.
 
 Confere a cobertura de testes de todos os métodos existentes na API REST (GET, POST, PUT, DELETE…).
 O swagger abaixo tem um total de 19 operações:
+
+<img src="https://miro.medium.com/max/875/0*FLEc8zdY1hZ1IWDY" width="680" height="597.17">
