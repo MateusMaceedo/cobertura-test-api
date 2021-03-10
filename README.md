@@ -22,4 +22,4 @@ Se verificar a imagem do swagger abaixo, podemos notar 13 endpoints diferentes:
 Suponha que a automação desta API tenha apenas 6 desses endpoints implementados, mas a API possui 13 endpoints.
 Para calcular a cobertura: quantidade de testes automatizados / quantidade de endpoints na API REST.
 
-<img src="https://miro.medium.com/max/875/0*fvX0D9IzUnB2EZEn" width="215" height="93">
+<img src="https://miro.medium.com/max/269/1*UzlqnUIMKRiH92L1yEGhuA.png" width="215" height="93">
