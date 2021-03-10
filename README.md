@@ -23,3 +23,10 @@ Suponha que a automação desta API tenha apenas 6 desses endpoints implementado
 Para calcular a cobertura: quantidade de testes automatizados / quantidade de endpoints na API REST.
 
 <img src="https://miro.medium.com/max/269/1*UzlqnUIMKRiH92L1yEGhuA.png" width="215" height="93">
+
+Então 46% dos testes de path estão cobertos pela automação.
+
+**** Operator Coverage (input) ****
+
+Confere a cobertura de testes de todos os métodos existentes na API REST (GET, POST, PUT, DELETE…).
+O swagger abaixo tem um total de 19 operações:
