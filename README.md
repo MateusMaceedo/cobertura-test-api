@@ -9,3 +9,12 @@ Existe uma forma de calcular a cobertura de testes, que se baseia nos critérios
 
 Neste artigo vou te mostrar como é realizado o cálculo da cobertura de testes de uma forma simples e objetiva, assim você poderá calcular a cobertura de seus testes, caso ache necessário.
 Em seguida, passarei por alguns critérios para explicar como calcular sua cobertura.
+
+### Path Coverage (input)
+Verifica a cobertura da suíte de testes de acordo com os endpoints que a API possui. Este critério é importante, pois ao receber uma solicitação, o programa pode executar caminhos diferentes, então precisamos garantir que os endpoints da API REST estão cobertos pelos testes.
+A análise é realizada pela quantidade de URI( URL + URN (Resource name)) que a API possui (se for a mesma URI para métodos diferentes, considera-se apenas um).
+
+O ideal é realizar ao menos uma requisição para verificar cada endpoint.
+Se verificar a imagem do swagger abaixo, podemos notar 13 endpoints diferentes:
+
+<img src="https://miro.medium.com/max/875/0*fvX0D9IzUnB2EZEn" width="680" height="605.78">
