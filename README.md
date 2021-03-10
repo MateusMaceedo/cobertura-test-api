@@ -39,3 +39,14 @@ Para calcular a cobertura: quantidade de operações da API estão automatizados
 
 <img alt="A imagem mostra o exemplo do calco de cobertura: 6 divido por 9 é igual a 0,84, que corresponse a 84 porcento." class="sy tm t u v ib aj c" width="205" height="93" src="https://miro.medium.com/max/256/1*YhPNpXV-JimfE8S6Hu_ZEQ.png" srcset="" sizes="205px">
 
+Então temos 84% dos testes de operações cobertos.
+
+##### Parameter Coverage (input)
+
+Verifica a cobertura de uma suíte de testes conforme os parâmetros existentes em cada método da API.
+
+<img alt="A imagem mostra os parametros query de um método GET." class="sy tm t u v ib aj c" width="1134" height="377" src="https://miro.medium.com/max/1418/1*g3TSnk_hOzpnZCK2_cmWMw.png" srcset="https://miro.medium.com/max/345/1*g3TSnk_hOzpnZCK2_cmWMw.png 276w, https://miro.medium.com/max/690/1*g3TSnk_hOzpnZCK2_cmWMw.png 552w, https://miro.medium.com/max/800/1*g3TSnk_hOzpnZCK2_cmWMw.png 640w, https://miro.medium.com/max/875/1*g3TSnk_hOzpnZCK2_cmWMw.png 700w" sizes="700px">
+
+<img alt="A imagem mostra um parametro body do método POST" class="sy tm t u v ib aj c" width="1136" height="308" src="https://miro.medium.com/max/1420/1*YE-UjrT3ps1s2-yQ7YaHOQ.png" srcset="https://miro.medium.com/max/345/1*YE-UjrT3ps1s2-yQ7YaHOQ.png 276w, https://miro.medium.com/max/690/1*YE-UjrT3ps1s2-yQ7YaHOQ.png 552w, https://miro.medium.com/max/800/1*YE-UjrT3ps1s2-yQ7YaHOQ.png 640w, https://miro.medium.com/max/875/1*YE-UjrT3ps1s2-yQ7YaHOQ.png 700w" sizes="700px">
+
+<img alt="A imagem mostra o parametro api_key no headers e o parametro path no método DELETE." class="sy tm t u v ib aj c" width="1132" height="320" src="https://miro.medium.com/max/1415/1*-RG2cqGoZzlOAOnNh5oQHg.png" srcset="https://miro.medium.com/max/345/1*-RG2cqGoZzlOAOnNh5oQHg.png 276w, https://miro.medium.com/max/690/1*-RG2cqGoZzlOAOnNh5oQHg.png 552w, https://miro.medium.com/max/800/1*-RG2cqGoZzlOAOnNh5oQHg.png 640w, https://miro.medium.com/max/875/1*-RG2cqGoZzlOAOnNh5oQHg.png 700w" sizes="700px">
