@@ -124,6 +124,7 @@ Figura 14: Status code. Fonte: <a href="https://petstore.swagger.io/#/pet/findPe
 
 
 
+
 Portanto, para atingir 100% da cobertura de testes, todos os status codes de cada operação deve estar implementado nos testes.
 
 Realizar o levantamento dos critérios de cobertura é importante, pois te dá um norte para saber o quão efetivo os testes automatizados estão sendo. Será que todos os paths da sua API estão cobertos? Será que não é possível atingir 100% de cobertura de parâmetros de entrada dos métodos? Comenta aí, o que você achou desta metodologia ou se você aplicaria e mostraria a cobertura de testes para o seu time.
