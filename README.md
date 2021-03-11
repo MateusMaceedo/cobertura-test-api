@@ -1,4 +1,4 @@
-<img src="https://static1.smartbear.co/swagger/media/assets/images/swagger_logo.svg" height="50" width="174" alt="Logotipo da Swagger">
+<img src="https://static1.smartbear.co/swagger/media/assets/images/swagger_logo.svg" height="60" width="184" alt="Logotipo da Swagger">
 
 ## Como verificar a cobertura de testes de APIs REST
 
