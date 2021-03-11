@@ -120,7 +120,7 @@ Este critério verifica quais status codes existentes em cada endpoint estão co
 Suponha que a API tenha um total de 25 status code, e na automação da API apenas 15 status code foram cobertos.
 
 <img alt="Exemplo de calculo de cobertura: 15 dividido por 25 é igual a 0,6, que corresponde a 60 porcento." class="sy tm t u v ib aj c" width="208" height="96" src="https://miro.medium.com/max/260/1*_uTXDuESQ_495KDpQxIp3g.png" srcset="" sizes="208px">
-<a href="https://petstore.swagger.io/#/pet/findPetsByStatus" class="cs ip" rel="noopener nofollow">Swagger UI</a>
+Figura 14: Status code. Fonte:<a href="https://petstore.swagger.io/#/pet/findPetsByStatus" class="cs ip" rel="noopener nofollow">Swagger UI</a>
 
 Portanto, para atingir 100% da cobertura de testes, todos os status codes de cada operação deve estar implementado nos testes.
 
